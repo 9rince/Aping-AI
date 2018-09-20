@@ -3,4 +3,5 @@
 _Primarily a blog on solutions of elementary yet fundamental problems in machine learning._
 
 - **XOR-Problem** in ANN
+- **Travelling Salesman** Solution using Genetic Algorithm.
 
