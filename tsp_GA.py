@@ -120,7 +120,4 @@ class Travelling_salesman:
             k -= 1
 
 
-Rohan = Travelling_salesman(no_of_cities=100)
-Rohan.evolve()
-print(Rohan.bst_dist,Rohan.bst_parent)
-Rohan.plot_cities()
+
